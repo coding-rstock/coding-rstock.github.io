@@ -14,17 +14,17 @@
   path: tabs
   url: categories
 -
-  name: "Tags"
-  icon: "fas fa-tags"
+  name: "Workspace"
+  icon: "fas fa-info"
   path: tabs
-  url: tags
+  url: workspace
 -
   name: "Archives"
   path: tabs
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
-  icon: "fas fa-info"
+  name: "Tags"
+  icon: "fas fa-tags"
   path: tabs
-  url: about
+  url: tags
