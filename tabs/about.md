@@ -1,5 +1,5 @@
 ---
-title: About
+title: Current Workspace
 
 # The About page
 # v2.0
@@ -8,4 +8,17 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+### Questions for Instructors
+
+##### Website
+- How to best manage/organize posts (markdown files) for SSG websites in the git repo?  Currently they are all just sitting in the "_posts" folder.
+- I'm unable to get Github's "workflow" feature to trigger automatically
+
+### Current Focus
+
+### Tasks
+
+### Website Development
+
+- Add page for book reports
+- 
