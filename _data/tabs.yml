@@ -28,3 +28,8 @@
   icon: "fas fa-tags"
   path: tabs
   url: tags
+-
+  name: "Book Reports"
+  icon: "fas fa-tags"
+  path: tabs
+  url: book_reports
