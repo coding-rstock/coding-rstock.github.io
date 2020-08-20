@@ -13,14 +13,12 @@ title: Coding Notes                  # the main title
 tagline: Richard Stock  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A journal of all my coding notes.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://coding-rstock.github.io'
 
-author: your_full_name                  # change to your full name
+author: Richard Stock                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
