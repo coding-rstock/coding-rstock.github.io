@@ -9,27 +9,32 @@
   name: Home
   icon: "fas fa-home"
 -
-  name: Categories
-  icon: "fas fa-stream"
-  path: tabs
-  url: categories
--
   name: "Workspace"
   icon: "fas fa-info"
   path: tabs
   url: workspace
 -
+  name: "Book Reports"
+  icon: "fas fa-book-open"
+  path: tabs
+  url: book_reports
+-
+  name: "Projects"
+  icon: "fas fa-cog"
+  path: tabs
+  url: projects
+-
+  name: Categories
+  icon: "fas fa-stream"
+  path: tabs
+  url: categories
+-
   name: "Archives"
+  icon: "fas fa-archive"
   path: tabs
   url: archives
-  icon: "fas fa-archive"
 -
   name: "Tags"
   icon: "fas fa-tags"
   path: tabs
   url: tags
--
-  name: "Book Reports"
-  icon: "fas fa-tags"
-  path: tabs
-  url: book_reports
