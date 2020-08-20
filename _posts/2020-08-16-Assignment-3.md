@@ -28,9 +28,7 @@ So to re-iterate for this week I would like you to practice the following:
 
 If you find it helpful, I can open up issues in the project issue tracker to keep you focused. Or if you prefer to get some practice with opening issues, please let me know.
 
-Next week, staring Monday, August. 31, I will be on holidays. I'm starting to feel a bit of burnout so I could use a few days of down time.
-
-Don't worry, I'll chat with you later this week to make sure that we keep you on track and that you have enough material to keep you busy.
+Next week, staring Monday, August. 31, I will be on holidays. Don't worry, I'll chat with you later this week to make sure that we keep you on track and that you have enough material to keep you busy.
 
 In the up coming weeks, I would like to start to get you familiar with HTML, CSS, and JavaScript.
 
