@@ -9,7 +9,9 @@ author: Richard Stock
 ### Currently Reading
 ---
 
-1. **Pragmatic Thinking & Learning**: [[PDF]](https://www.e-reading-lib.com/bookreader.php/137202/andy-hunt-pragmatic-thinking-and-learning-refactor-your-wetware.pdf) || [Book-Report]({{ https://coding-rstock.github.io/coding_notes/ }}{% link page/book-report1_prag-think-learn.md %})
+1. **Pragmatic Thinking & Learning**: 
+[[PDF]](https://www.e-reading-lib.com/bookreader.php/137202/andy-hunt-pragmatic-thinking-and-learning-refactor-your-wetware.pdf) 
+[Report]{% link _pages/report1_prag-t&l.md %}
 
 2. **Pro Git**: [PDF](https://github.com/progit/progit2/releases/download/2.1.252/progit.pdf)
 
