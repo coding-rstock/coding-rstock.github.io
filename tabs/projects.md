@@ -9,4 +9,4 @@ author: Richard Stock
 ### Conceptual Phase
 ---
 
-1. **[Nutrition App]({% link nutrition_app.md %})**
+1. **[Nutrition App]({% link _pages/nutrition_app.md %})**
