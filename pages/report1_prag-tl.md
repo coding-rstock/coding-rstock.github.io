@@ -5,7 +5,7 @@ categories:
 tags: []     # TAG names should always be lowercase
 author: Richard Stock
 layout: post
-permalink: /report1_prag-t&l.md/
+permalink: /pragmatic_thinking_and_learning
 ---
 
 ### Chapter 1: Introduction
