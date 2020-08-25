@@ -94,7 +94,7 @@ To my knowledge there isn't an app or even professional grade software designed 
    > |         | Minimum | Optimal | Maximum |
    > | ------- | ------- | ------- | ------- |
    > | Protein | 0.5     | 0.7     | 1.0     |
-   > | Carbs   |         |         |         |
+   > | Carbs   | 0.5     |         |         |
    > | Fat     |         |         |         |
    >
    > Team Sports:  
