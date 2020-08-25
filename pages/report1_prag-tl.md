@@ -5,7 +5,6 @@ categories:
 tags: []     # TAG names should always be lowercase
 author: Richard Stock
 layout: post
-permalink: /pragmatic_thinking_and_learning
 ---
 
 ### Chapter 1: Introduction
@@ -105,9 +104,9 @@ Agile development uses feedback to make constant adjustments in a highly collabo
 
     - This transition from the novice’s context-free rules to the expert’s context dependent intuition is one of the most interesting parts of the Dreyfus model; 
 
-```
-So our goal, for most of the rest of this book, is to see how we might better harness intuition and get better at recognising and applying patterns.
-```
+
+> So our goal, for most of the rest of this book, is to see how we might better harness intuition and get better at recognising and applying patterns.
+
 
 - Using the Dreyfus Method Effectively
   - Take responsibility: no matter what level of programmer you are on a team, you must take responsibility for the outcome of the project and speak up if you see something wrong or detrimental taking place.
