@@ -29,7 +29,7 @@ To my knowledge there isn't an app or even professional grade software designed 
 
 **1. Determine Basal Metabolic Rate (BMR)**: This is the amount of calories you burn to keep your body functioning at absolute resting state (ex: sleeping).  There are several formulas however most accurate are  Mifflin St-Jeor and the newer Henry-Oxford ones, *not* Harris-Benedict.  Consider averaging MSJ and Oxford.  
 
-`user input: 1) weight, 2) height, 3) age, 4) gender`
+`user input: 1) weight, 2) height, 3) birthdate, 4) gender`
 
 ```mathematica
    Mifflin St Jeor (metric):
@@ -125,7 +125,7 @@ User's Fitness Goal:
 
 <br/>
 
-**Optimal Macro Ranges** (listed in units of grams per lb of body weight per day)
+**Optimal Macro Ranges** (grams per pound of body weight / day)
 
 `General Health`
 
@@ -179,11 +179,20 @@ User's Fitness Goal:
 
 **5. Determine Meal Schedule**:   Different for workout days and for rest days.  User inputs the following parameters, and calculations are performed to create the optimal meal schedule:
 
-`user inputs: 1) wake time, 2) sleep time, 3) workout time, 4) time between waking and first meal (minutes), 5) time between last meal and sleeping (minutes), 6) # of meals per day (between 3 and 8)`
+`user inputs: 1) wake time, 2) sleep time, 3) workout start time, 4) workout duration (minutes), 5) time between waking and first meal (minutes), 6) time between last meal and sleeping (minutes), 7) # of meals per day (between 4 and 8)`
 
 ```mathematica
-Meal Schedule Calculations
-**************************
+Meal Schedule Calculations - Case 1 (typical)
+*********************************************
+1) Calculate time of first meal        = 1 plus 5
+2) Calculate time of last meal         = 2 minus 6
+3) Calculate time of pre-workout meal  = 3 minus (60 minutes)
+4) Calculate time of post-workout meal = 3 plus 4 plus (30 minutes)
+5) If more than 4 meals per day, fill in remaining meals:
+	 LOOP until all meals are scheduled:
+     1) Identify all gaps between scheduled meals
+     2) Place meal 5 in middle of largest gap
+
 ```
 
 <br/>
