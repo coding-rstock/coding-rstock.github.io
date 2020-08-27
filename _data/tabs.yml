@@ -10,7 +10,7 @@
   icon: "fas fa-home"
 -
   name: "Workspace"
-  icon: "fas fa-info"
+  icon: "fas fa-laptop-code"
   path: tabs
   url: workspace
 -

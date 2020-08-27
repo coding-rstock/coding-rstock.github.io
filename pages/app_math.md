@@ -167,14 +167,7 @@ User's Fitness Goal:
 ```mathematica
 Meal Schedule Calculations - Case 1 (typical)
 *********************************************
-1) Calculate time of first meal        = 1 plus 5
-2) Calculate time of last meal         = 2 minus 6
-3) Calculate time of pre-workout meal  = 3 minus (60 minutes)
-4) Calculate time of post-workout meal = 3 plus 4 plus (30 minutes)
-5) If more than 4 meals per day, fill in remaining meals:
-	 LOOP until all meals are scheduled:
-     1) Identify all gaps between scheduled meals
-     2) Place meal 5 in middle of largest gap
+
 
 ```
 
