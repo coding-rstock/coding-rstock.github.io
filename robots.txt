@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://coding-rstock.github.io/coding_notes/sitemap.xml
